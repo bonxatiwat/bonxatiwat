@@ -8,7 +8,7 @@ I'm a software developer with over 6 years of experience, skilled in frameworks 
 - DevOps practices
 
 ## 🌱 I’m currently learning
-- ฺBasic and Advanced Go programming techniques
+- Basic and Advanced Go programming techniques
 - Nginx
 
 ## 💞️ I’m looking to collaborate on
