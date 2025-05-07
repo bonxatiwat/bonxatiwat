@@ -23,4 +23,4 @@ I'm a software developer with over 6 years of experience, skilled in frameworks 
 - He/Him
 
 ## ⚡ Fun fact
-I enjoy playing Rov games in my free time.
+I enjoy playing Rov games in my free time and go to the gym in the morning 💪.
